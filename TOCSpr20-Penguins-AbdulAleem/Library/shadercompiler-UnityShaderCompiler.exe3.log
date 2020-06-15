@@ -1,0 +1,286 @@
+Base path: 'C:/Program Files/Unity/Editor/Data', plugins path 'C:/Program Files/Unity/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=12109 outsize=1046 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11985 outsize=1465 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11985 outsize=1465 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11985 outsize=1465 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11985 outsize=1465 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11985 outsize=1497 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11985 outsize=1499 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11985 outsize=1616 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18301 outsize=2213 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18301 outsize=3063 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18301 outsize=5585 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1686 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=10967 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1634 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=2482 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1489 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=2077 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1597 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=3271 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1287 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1285 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1369 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1631 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1383 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1861 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1284 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1387 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1819 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1819 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1856 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1849 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1998 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1341 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1302 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=3836 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=1750 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=2477 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66874 outsize=2591 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=72903 outsize=12700 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=677 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=622 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=775 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=806 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=759 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=753 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=855 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=749 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=701 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=769 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=700 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=837 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=1134 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=1258 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=1137 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=1547 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=1306 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=1340 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=1296 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=1288 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=1369 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=1346 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=34089 outsize=1364 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=2787 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=14204 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=22065 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=35141 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=35630 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=4420 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=4420 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=3084 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=3084 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=3725 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=3725 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=1572 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=1969 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=1905 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=5359 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=12876 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=79248 outsize=12236 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4442 outsize=1590 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4442 outsize=1750 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1900 outsize=3122 ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Generic.compute(379): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at Generic.compute(392): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at Generic.compute(408): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=15451 outsize=1535 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Generic.compute(379): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at Generic.compute(392): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at Generic.compute(408): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=15451 outsize=2030 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at Generic.compute(379): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at Generic.compute(392): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at Generic.compute(408): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=15451 outsize=1488 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9919 outsize=1831 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9919 outsize=1831 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9919 outsize=2009 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=4 insize=44328 outsize=1494 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=4 insize=44328 outsize=2887 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=4 insize=44328 outsize=2062 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=4 insize=44328 outsize=3009 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=4 insize=44328 outsize=1368 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=4 insize=44328 outsize=1762 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=4 insize=44328 outsize=1831 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=4 insize=44328 outsize=1831 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=4 insize=44328 outsize=1860 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=4 insize=44328 outsize=1311 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=4 insize=44328 outsize=1326 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(12): 'kernal' : unknown pragma ignored
+  error: 1 plat 4 at BarracudaReferenceImpl.compute(1261): 'ix': loop control variable conflicts with a previous declaration in the outer scope; most recent declaration will be used
+  api=4 insize=44328 outsize=2989 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=64076 outsize=7425 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=770 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=706 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=932 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=849 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=850 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=839 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=669 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=867 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1214 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1283 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1057 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1469 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1482 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1354 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1427 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1321 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1296 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1269 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=28299 outsize=1616 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=23440 outsize=2627 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=23440 outsize=9502 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=23440 outsize=3501 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4053 outsize=1700 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1602 outsize=2002 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
